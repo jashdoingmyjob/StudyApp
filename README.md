@@ -1,0 +1,2 @@
+# StudyApp
+"Study Buddy App"
